@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Halaman Latihan</title>
+</head>
+<body>
+
+<h1>Pemrograman Web Dasar</h1>
+<p>Berikut ini link Web saya.</p>
+<a href="http://www.sultanseptian.my.id/">Web saya</a>
+
+<p>Berikut ini adalah gambar.</p>
+
+<img src="http://3.bp.blogspot.com/-rVZd34RbKyU/VQrGiyP4raI/AAAAAAAAAC8/ILkRG8d6KQU/s1600/HTML.jpg">
+
+<p>Berikut ini adalah tabel daftar.</p> 
+<table border="1" bgcolor="white" align="center">
+   <caption align="top"> 
+   <b> Tabel Daftar Nilai Mahasiswa </b> </caption>
+   <tr bgcolor="gray"><th rowspan="2">No</th>
+   <th rowspan="2">NPM</th> <th rowspan="2">Nama</th> <th colspan="2">Nilai</th>
+   </tr>
+   <tr bgcolor="gray"><th>UTS</th> <th>UAS</th> </tr>
+   <tr bgcolor="cyan"><td align="center" width="20">1.</td>
+   <td align="left" valign="middle" width="80" height="40">15120003</td>
+   <td align="left" valign="middle" width="180" height="40">Sutan Septian</td>
+   <td align="center" valign="middle">90</td> <td align="center" valign="middle">100</td>
+   </tr>
+   <tr bgcolor="red"><td align="center" width="20">2.</td>
+   <td align="left" valign="middle" width="80" height="40">15120001</td>
+   <td align="left" valign="middle" width="180" height="40">Beni B. Bernardi</td>
+   <td align="center" valign="middle">70</td> <td align="center" valign="middle">80</td>
+   </tr>
+</table>
+
+
+</body>
+</html>
